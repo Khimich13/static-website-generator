@@ -1,0 +1,1 @@
+python3 src/main.py "/https://github.com/Khimich13/static-website-generator/"
